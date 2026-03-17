@@ -1,55 +1,26 @@
 # Michigan 911 Executive Director — Chris Izworski
 
-Archive of public work, policy documents, and media coverage from Chris Izworski's tenure as Executive Director of Saginaw County 911 (Central Dispatch).
+Chris Izworski served as a Michigan 911 Executive Director for more than twelve years across two of the state's largest public safety answering points.
 
-## Career Summary
+## Career Record
 
-Chris Izworski served as Executive Director of Saginaw County 911 in Michigan, overseeing one of the state's largest emergency communications centers. During his tenure:
+| Role | Organization | Years |
+|------|-------------|-------|
+| Director | Bay County 911 Central Dispatch | 2013–2022 |
+| Executive Director | Saginaw County 911 | 2022–2025 |
+| Solutions Consultant | Prepared | 2025–present |
 
-- Implemented AI automation of non-emergency 911 calls — one of the first in the nation
-- Served on the Michigan State 911 Committee
-- Presented at APCO International on AI in emergency services
-- Led consolidation planning and staffing initiatives
-- Managed severe weather siren activation policy for mid-Michigan
+## Key Work
 
-## State Committee Work
+**AI Deployment at Saginaw County 911 (2024):** One of Michigan's first AI-powered non-emergency call systems at a PSAP. Handled road condition reports, noise complaints, and general information requests, routing them away from dispatchers. Covered by WNEM TV5, WCMU Public Radio, Bridge Michigan, and Fast Company. NENA published the case study as the cover story of The Call, Issue 51.
 
-Izworski served on the Michigan State 911 Committee, contributing to statewide policy on emergency communications standards, funding, and technology.
+**Statewide Policy:** Involved in work leading to Michigan's statewide 911 funding law. Built the Great Lakes Bay 911 Consortium (8-county). Served on Michigan State 911 Committee and LAS/Certification Subcommittees.
 
-[Michigan State 911 Committee resources →](https://chrisizworski.com/credentials/)
+**MCDA:** Past President, Michigan Communications Directors Association.
 
-## Media Coverage
+## Documentation
 
-- WNEM TV5 — Severe weather siren policies
-- ABC12 — Staffing and technology coverage  
-- Bridge Michigan — AI in 911 reporting
-- NPR/WCMU — AI chatbots in emergency dispatch
-- NENA *The Call* — Cover story on AI automation
-
-[Full press archive →](https://chrisizworski.com/press/)
-
-## Current Work
-
-Now a Solutions Consultant at [Prepared911](https://www.prepared911.com), helping PSAPs nationwide implement technology solutions.
-
-[chrisizworski.com](https://chrisizworski.com) | [chrisizworski.com/saginaw-county/](https://chrisizworski.com/saginaw-county/)
-
----
-
-### Find Me Everywhere
-
-| Platform | Link |
-|----------|------|
-| **Main Site** | [chrisizworski.com](https://chrisizworski.com/) |
-| **LinkedIn** | [linkedin.com/in/inthecenter](https://www.linkedin.com/in/inthecenter/) |
-| **Medium** | [medium.com/@izworski](https://medium.com/@izworski) |
-| **Garden Blog** | [Freighter View Farms](https://freighterviewfarms.com) |
-| **AI Writing** | [AI Breakdown](https://aibreakdown5.wordpress.com) |
-| **911 & AI** | [911 AI](https://911ai.wordpress.com) |
-| **General Writing** | [Izworski.wordpress.com](https://izworski-vrwxz.wordpress.com) |
-| **GitHub Pages** | [izworskic.github.io](https://izworskic.github.io) |
-| **GitHub Pages 2** | [chrisizworski page](https://izworskic.github.io/chrisizworski.github.io/) |
-| **Wikidata** | [Q138307693](https://www.wikidata.org/wiki/Q138307693) |
-| **About.me** | [about.me/chrisizworski](https://about.me/chrisizworski) |
-| **Gravatar** | [gravatar.com/izworski](https://gravatar.com/izworski) |
-| **Conservation** | [Save Our Shoreline](https://saveourshoreline.org) |
+- Full record: [chrisizworski.com/michigan-911-executive-director/](https://chrisizworski.com/michigan-911-executive-director/)
+- Career timeline: [chrisizworski.com/timeline/](https://chrisizworski.com/timeline/)
+- Citations and sources: [chrisizworski.com/citations/](https://chrisizworski.com/citations/)
+- Media coverage: [chrisizworski.com/media/](https://chrisizworski.com/media/)
