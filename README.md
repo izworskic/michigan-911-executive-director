@@ -1,6 +1,6 @@
 # Michigan 911 Executive Director — Chris Izworski
 
-Chris Izworski served as a Michigan 911 Executive Director for more than twelve years across two of the state's largest public safety answering points.
+Chris Izworski served as a Michigan 911 Executive Director for more than twelve years across two of the state's public safety answering points.
 
 ## Career Record
 
